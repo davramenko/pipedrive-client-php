@@ -17,7 +17,7 @@ PHP 7.4+ and later.
 ### Composer
 
 ```shell
-composer require pipedrive/pipedrive
+composer require davramenko/pipedrive
 ```
 
 ### Manual Installation
